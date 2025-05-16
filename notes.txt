@@ -29,3 +29,11 @@ source venv/bin/activate
 pip install flask python-dotenv twilio
 
 pip freeze > requirements.txt
+
+| Biblioteca        | Função principal no projeto                             |
+| ----------------- | ------------------------------------------------------- |
+| **Flask**         | Criar servidor web para receber mensagens (webhook)     |
+| **python-dotenv** | Gerenciar variáveis sensíveis (credenciais)             |
+| **twilio**        | Gerar e enviar respostas no formato que o Twilio espera |
+
+ngrok config add-authtoken <token>
