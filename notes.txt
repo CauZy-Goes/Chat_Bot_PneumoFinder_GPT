@@ -1,0 +1,31 @@
+# Cria o projeto e entra na pasta
+mkdir whatsapp_bot
+cd whatsapp_bot
+
+# Cria o ambiente virtual
+python -m venv venv
+
+# Ativa o ambiente virtual
+# Windows:
+venv\Scripts\activate
+
+# macOS/Linux:
+source venv/bin/activate
+
+# Cria o projeto e entra na pasta
+mkdir whatsapp_bot
+cd whatsapp_bot
+
+# Cria o ambiente virtual
+python -m venv venv
+
+# Ativa o ambiente virtual
+# Windows:
+venv\Scripts\activate
+
+# macOS/Linux:
+source venv/bin/activate
+
+pip install flask python-dotenv twilio
+
+pip freeze > requirements.txt
