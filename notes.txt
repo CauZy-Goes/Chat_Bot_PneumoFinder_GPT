@@ -37,3 +37,5 @@ pip freeze > requirements.txt
 | **twilio**        | Gerar e enviar respostas no formato que o Twilio espera |
 
 ngrok config add-authtoken <token>
+
+ngrok http 5000 
