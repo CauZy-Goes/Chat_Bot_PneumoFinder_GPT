@@ -148,5 +148,5 @@ Consulte o arquivo [LICENSE](https://github.com/CauZy-Goes/Meu_Chat_Bot_Twillio/
 
 Desenvolvido por [Cauã Farias (CauZy-Goes)](https://github.com/CauZy-Goes)  
 📧 cauafariasdev@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/cauã-farias)
+💼 [LinkedIn]([https://www.linkedin.com/in/cauã-farias](https://www.linkedin.com/in/cau%C3%A3-farias-739013288/))
 
