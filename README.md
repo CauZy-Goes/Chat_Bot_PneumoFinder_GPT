@@ -1,5 +1,5 @@
 
-# WhatsApp Bots: PneumoFinder & TaskList Assistant 🤖📱
+# WhatsApp Bots: PneumoFinder & TaskList Assistant(GPT) 🫁🤖
 
 Este projeto contém **dois chatbots inteligentes integrados ao WhatsApp via Twilio** que se comunicam com APIs distintas:
 
@@ -23,7 +23,7 @@ Este projeto contém **dois chatbots inteligentes integrados ao WhatsApp via Twi
 **Fluxo resumido:**
 1. Usuário envia uma **imagem de raio-x do pulmão**
 2. Bot chama a API PneumoFinder
-3. Responde o diagnóstico: `"Pulmão saudável"` ou `"Suspeita de pneumonia"`
+3. Responde o diagnóstico: `"Ausência de Pneumonia"` ou `"Presença De pneumonia"`
 
 ---
 
